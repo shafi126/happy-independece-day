@@ -64,8 +64,7 @@ p {
     padding-right: 0px;
   }
   .data {
-      border: 1px solid red;
-    max-width: 20rem;
+    width: inherit;
     text-align: left;
   }
   p {
