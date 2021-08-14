@@ -64,7 +64,8 @@ p {
     padding-right: 0px;
   }
   .data {
-    width: 22rem;
+    min-width: 20rem;
+    max-width: 24rem;
     text-align: left;
   }
   p {
