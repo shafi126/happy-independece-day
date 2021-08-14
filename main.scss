@@ -64,6 +64,7 @@ p {
     padding-right: 0px;
   }
   .data {
+      border: 1px solid red;
     max-width: 20rem;
     text-align: left;
   }
@@ -71,5 +72,6 @@ p {
     padding-left: 10px;
     padding-right: 5px;
     font-size: 0.8rem;
+    margin-right: 0px;
   }
 }
